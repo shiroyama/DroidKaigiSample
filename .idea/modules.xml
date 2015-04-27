@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/asynctaskbetterexample/asynctaskbetterexample.iml" filepath="$PROJECT_DIR$/asynctaskbetterexample/asynctaskbetterexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/asynctaskmorebetterexample/asynctaskmorebetterexample.iml" filepath="$PROJECT_DIR$/asynctaskmorebetterexample/asynctaskmorebetterexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/asynctaskmuchmorebetterexample/asynctaskmuchmorebetterexample.iml" filepath="$PROJECT_DIR$/asynctaskmuchmorebetterexample/asynctaskmuchmorebetterexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbusexample/eventbusexample.iml" filepath="$PROJECT_DIR$/eventbusexample/eventbusexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/loadersimpleexample/loadersimpleexample.iml" filepath="$PROJECT_DIR$/loadersimpleexample/loadersimpleexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/saveinstancestate/saveinstancestate.iml" filepath="$PROJECT_DIR$/saveinstancestate/saveinstancestate.iml" />
     </modules>
