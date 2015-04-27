@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/asynctaskbadexample/asynctaskbadexample.iml" filepath="$PROJECT_DIR$/asynctaskbadexample/asynctaskbadexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/asynctaskbetterexample/asynctaskbetterexample.iml" filepath="$PROJECT_DIR$/asynctaskbetterexample/asynctaskbetterexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/asynctaskmorebetterexample/asynctaskmorebetterexample.iml" filepath="$PROJECT_DIR$/asynctaskmorebetterexample/asynctaskmorebetterexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskmuchmorebetterexample/asynctaskmuchmorebetterexample.iml" filepath="$PROJECT_DIR$/asynctaskmuchmorebetterexample/asynctaskmuchmorebetterexample.iml" />
     </modules>
   </component>
 </project>
