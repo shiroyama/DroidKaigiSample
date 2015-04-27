@@ -1,1 +1,1 @@
-include ':asynctaskbadexample', ':asynctaskbetterexample', ':asynctaskmorebetterexample', ':asynctaskmuchmorebetterexample'
+include ':asynctaskbadexample', ':asynctaskbetterexample', ':asynctaskmorebetterexample', ':asynctaskmuchmorebetterexample', ':loadersimpleexample'
