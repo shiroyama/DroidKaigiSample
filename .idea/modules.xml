@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/eventbusexample/eventbusexample.iml" filepath="$PROJECT_DIR$/eventbusexample/eventbusexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentexample/fragmentexample.iml" filepath="$PROJECT_DIR$/fragmentexample/fragmentexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/loadersimpleexample/loadersimpleexample.iml" filepath="$PROJECT_DIR$/loadersimpleexample/loadersimpleexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pausehandler/pausehandler.iml" filepath="$PROJECT_DIR$/pausehandler/pausehandler.iml" />
       <module fileurl="file://$PROJECT_DIR$/saveinstancestate/saveinstancestate.iml" filepath="$PROJECT_DIR$/saveinstancestate/saveinstancestate.iml" />
     </modules>
   </component>

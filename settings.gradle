@@ -1,1 +1,1 @@
-include ':asynctaskbadexample', ':asynctaskbetterexample', ':asynctaskmorebetterexample', ':asynctaskmuchmorebetterexample', ':loadersimpleexample', ':saveinstancestate', ':eventbusexample', ':fragmentexample'
+include ':asynctaskbadexample', ':asynctaskbetterexample', ':asynctaskmorebetterexample', ':asynctaskmuchmorebetterexample', ':loadersimpleexample', ':saveinstancestate', ':eventbusexample', ':fragmentexample', ':pausehandler'
