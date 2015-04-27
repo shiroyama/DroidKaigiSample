@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/asynctaskbadexample" />
             <option value="$PROJECT_DIR$/asynctaskbetterexample" />
+            <option value="$PROJECT_DIR$/asynctaskmorebetterexample" />
           </set>
         </option>
       </GradleProjectSettings>
