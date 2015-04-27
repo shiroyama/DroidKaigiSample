@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DroidKaigiSample.iml" filepath="$PROJECT_DIR$/DroidKaigiSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/asynctaskbadexample/asynctaskbadexample.iml" filepath="$PROJECT_DIR$/asynctaskbadexample/asynctaskbadexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskbetterexample/asynctaskbetterexample.iml" filepath="$PROJECT_DIR$/asynctaskbetterexample/asynctaskbetterexample.iml" />
     </modules>
   </component>
 </project>
